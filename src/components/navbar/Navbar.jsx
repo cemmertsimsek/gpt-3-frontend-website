@@ -6,19 +6,19 @@ import logo from "../../assets/logo.svg";
 const Menu = () => (
   <>
     <p>
-      <a href="#home"></a>Home
+      <a href="#home">Home</a>
     </p>
     <p>
-      <a href="#wgpt3"></a>What is GPT3?
+      <a href="#wgpt3">What is GPT3?</a>
     </p>
     <p>
-      <a href="#possibility"></a>Open AI
+      <a href="#possibility">Open AI</a>
     </p>
     <p>
-      <a href="#features"></a>Case Studies
+      <a href="#features">Case Studies</a>
     </p>
     <p>
-      <a href="#blog"></a>Library
+      <a href="#blog">Library</a>
     </p>
   </>
 );
