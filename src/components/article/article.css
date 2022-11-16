@@ -37,6 +37,11 @@
     color: #FFFFFF;
 }
 
+.gpt3__blog-container_article-content-articles p{
+    font-family: var(--font-family);
+    color: rgba(158, 158, 158, 0.753);
+    margin-bottom: 2rem;
+}
 
 .gpt3__blog-container_article-content h3{
     font-family: var(--font-family);
@@ -44,11 +49,14 @@
     font-size: 25.11px;
     line-height: 30px;
     color: #FFFFFF;
-    margin-bottom: 5rem;
+    margin-bottom: 2rem;
+
     cursor: pointer;
 }
 
-.gpt3__blog-container_article-content p:last-child{
+
+
+.gpt3__blog-container_article-lastchild{
     font-family: var(--font-family);
     font-weight: 700;
     font-size: 11.649px;
